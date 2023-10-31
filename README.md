@@ -1,3 +1,3 @@
 # FireTackle
 Game for Hosťoplacky
-pokus desktop github
+pokus desktop github asdw
